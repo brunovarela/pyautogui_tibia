@@ -13,10 +13,8 @@ pyautogui: Captura a posição do mouse e realiza movimentos e cliques automáti
 time: Usada para pausas entre cliques.
 Para instalar as bibliotecas necessárias, execute:
 
-bash
-Copiar código
-pip install keyboard pyautogui
-⚠️ Nota: Execute o script como administrador para garantir o funcionamento adequado da biblioteca keyboard.
+pip install pyautogui
+
 
 ⚙️ Configuração e Uso
 Defina as posições na tela:
