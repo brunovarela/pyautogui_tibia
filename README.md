@@ -1,4 +1,5 @@
 🖱️ Automação de Cliques no Tibia
+
 Este é um projeto simples em Python que automatiza o uso de itens no jogo Tibia, simulando o movimento e clique do mouse em pontos definidos na tela. Com atalhos configurados, você pode realizar ações rápidas, como usar mana potions ou ultimate healing (UH) no personagem, facilitando a jogabilidade.
 
 🚀 Funcionalidades
